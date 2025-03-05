@@ -37,3 +37,14 @@ rr error
 ---
 ### EJECUCION
 'hola' se repite n veces en el texto
+### PUNTO 4
+--- 
+1. Descargar los archivos punto4.c y punto4.py
+2. Para ejecutar punto4.c: escribir en terminal "gcc punto4.c -o punto4"
+3. luego escribir "./punto4"
+4. Para ejecturar punto4.py: escrinir en terminal "python3 punto4.py"
+---
+### EJECUCION
+---
+1. En c mostrara la suma correspondiente y el tiempo que es aproximadamente de 0.172833 segundos
+2. En python mostrara la suma correspondiente y el tiempo que es aproximandamente 4.35677 segundos
