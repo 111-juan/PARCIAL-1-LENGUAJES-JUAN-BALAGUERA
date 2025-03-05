@@ -28,4 +28,12 @@ rr error
 --- 
 1. ACEPTA
 2. NO ACEPTA
-
+### PUNTO 3
+---
+1. Descarga el archivo punto3.c
+2. Crear un archivo.txt ingresando un texto cualquiera, donde se repita alguna palabra como 'hola' 'adios' 'entonces' etc
+3. ingresar en la terminal "gcc punto3.c -o punto3"
+4. luego ingresar ./punto3 archivo.txt "la palabra que deseas saber cuantas veces se repite" EJemplo: ./punto3 archivo.txt hola
+---
+### EJECUCION
+'hola' se repite n veces en el texto
