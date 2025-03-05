@@ -15,4 +15,17 @@
 48.55 real
 rr error
  error
+### PUNTO 2
+--- 
+1. Descargar el archivo punto2.l
+2. Crear un archivo.txt, que contenga por ejemplo: square = lambda x: x**2 print(square(3))
+3. ingresar a la terminal y escribir "flex punto2.l"
+4. luego verificar con 'ls' si el archivo "lex.yy.c" fue generado
+5. luego escribir "gcc lex.yy.c -o punto2"
+6. y escribir finalmente ./punto2 archivo.txt
+---
+### EJECUCION 
+--- 
+1. ACEPTA
+2. NO ACEPTA
 
